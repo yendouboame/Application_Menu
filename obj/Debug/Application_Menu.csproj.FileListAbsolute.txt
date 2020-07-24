@@ -1,0 +1,4 @@
+C:\Users\Yendouboame WOAGOU\source\repos\Application_Menu\obj\Debug\Application_Menu.csprojAssemblyReference.cache
+C:\Users\Yendouboame WOAGOU\source\repos\Application_Menu\obj\Debug\Application_Menu.FrmChoixMenu.resources
+C:\Users\Yendouboame WOAGOU\source\repos\Application_Menu\obj\Debug\Application_Menu.Properties.Resources.resources
+C:\Users\Yendouboame WOAGOU\source\repos\Application_Menu\obj\Debug\Application_Menu.csproj.GenerateResource.cache
